@@ -3,6 +3,8 @@
 - 🌱 Estudando Curso Técnico Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
+
+
 <div align="center">
   <a href="https://github.com/gustavodesantana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavodesantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,6 +17,8 @@
   <img align="center" alt="Gu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gu-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Gu-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Gu-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Gu-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" >
 </div>
 
   ##
