@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo de Santana
 
-- 🌱 Estudando Curso Técnico Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+- 🖥️ Técnico em Desenvolvimento de Sistemas
+- 🌱 Graduando em Analisé e Desenvolvimento de Sistemas
 
 
 
